@@ -39,10 +39,10 @@ Based on pivot table and chart from Outcomes based on Launch Date, we can determ
 From the Outcomes Based on Goals chart, goal amount range between 1000 to 4999 is the most successful, I saw the success rate of plays decline when the goal amount increases.  And I noticed none of the plays were canceled.
 
 - What are some limitations of this dataset?
- 
+ The dataset didn't account for the exchange reate amongst different currencies.
 
 - What are some other possible tables and/or graphs that we could create?
-We can create Outcomes Based on Deadline.
+   We can create Outcomes Based on Deadline.
 
 
 ![image](https://user-images.githubusercontent.com/95242493/146726444-b230ab93-ebf7-4c8e-9061-64911ddf702d.png)
