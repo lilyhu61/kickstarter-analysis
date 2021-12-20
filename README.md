@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends. 
 Written analysis for the Kikerstarter_Challenge project.
 
 
